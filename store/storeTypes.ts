@@ -1,0 +1,5 @@
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
+export const FETCH_DATA_FAIL = "FETCH_DATA_FAIL";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const ALERT_DATA = "ALERT_DATA";
